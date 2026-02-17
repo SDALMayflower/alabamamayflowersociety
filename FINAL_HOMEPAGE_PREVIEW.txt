@@ -1,0 +1,99 @@
+═══════════════════════════════════════════════════════════════
+  FINAL HOMEPAGE - WHAT IT LOOKS LIKE NOW
+═══════════════════════════════════════════════════════════════
+
+┌─────────────────────────────────────────────────────────────┐
+│                    [MAYFLOWER LOGO] [SEAL]                  │
+│        Society of Mayflower Descendants in the               │
+│                  State of Alabama                             │
+├─────────────────────────────────────────────────────────────┤
+│  BROWN NAVIGATION BAR:                                       │
+│  Home | Mayflower Compact | Lineage Form | Programs |        │
+│        Our History | Contact                                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                               │
+│  ┌───────────────────────────────────────────────────────┐  │
+│  │                                                         │  │
+│  │  [LOGO001]  Our new website is under development  [LOGO002] │
+│  │               & coming soon!                           │  │
+│  │                                                         │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                               │
+│  Welcome to the Alabama Mayflower Society                    │
+│  ══════════════════════════════════════                     │
+│                                                               │
+│  The Alabama Society of Mayflower Descendants welcomes       │
+│  inquiries and appreciates interest in our activities...     │
+│                                                               │
+│  Founded in 1952, we organized as a society to               │
+│  commemorate the spirit of these brave people...             │
+│                                                               │
+│              ┌─────────────────────────┐                     │
+│              │                         │                     │
+│              │  [PILGRIM PAYMENT       │                     │
+│              │   PORTAL IMAGE]         │                     │
+│              │                         │                     │
+│              │  (Clickable - links to  │                     │
+│              │   square.site)          │                     │
+│              │                         │                     │
+│              └─────────────────────────┘                     │
+│                                                               │
+│  Membership Eligibility                                      │
+│  ──────────────────────                                      │
+│  You are eligible to join our society if you can provide     │
+│  documentation...                                             │
+│                                                               │
+│  Society Officers                                            │
+│  ───────────────                                             │
+│  STATE OFFICERS:                                             │
+│  GOVERNOR: Kevin Duane Sellew of Mobile County              │
+│  DEPUTY GOVERNOR: Brian Edward House of Madison County      │
+│  [... remaining officers ...]                                │
+│                                                               │
+│  COLONY LT. GOVERNORS:                                       │
+│  Cahaba River Colony: M. Inge Tingle                        │
+│  Capital Colony: VACANT                                      │
+│  Gulf Coast Colony: Kevin Duane Sellew                      │
+│  Tennessee Valley Colony: Carolyn Wadleigh Fowler           │
+│                                                               │
+│  ┌───────────────────────────────────────────────────────┐  │
+│  │           Have a Question?                             │  │
+│  │                                                         │  │
+│  │  We value your questions and comments...               │  │
+│  │                                                         │  │
+│  │       governor@alabamasmd.org                          │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                               │
+├─────────────────────────────────────────────────────────────┤
+│  FOOTER (brown background):                                  │
+│  Copyright © 2026 The Society of Mayflower Descendants       │
+│  General Society: www.themayflowersociety.org                │
+└─────────────────────────────────────────────────────────────┘
+
+FINAL DESIGN FEATURES:
+----------------------
+✅ Clean notice banner with logos flanking text
+✅ Prominent clickable payment portal image
+✅ No cluttered event registration text
+✅ Streamlined officers list
+✅ Professional and polished
+✅ Easy to navigate
+✅ Mobile-responsive
+
+WHAT WAS REMOVED:
+-----------------
+❌ "📢 Notice: New Website Coming Soon"
+❌ Reference to alabamasmd.org
+❌ "📍 Upcoming Event" section
+❌ "Spring Conference and Luncheon" text
+❌ "<<Streaming Registration Form>>" button
+❌ "OR you can register..." text
+
+WHAT WAS ADDED/KEPT:
+--------------------
+✅ New banner text: "Our new website is under development & coming soon!"
+✅ MayflowerLogo001.jpg (left side of banner)
+✅ Logo002.jpeg (right side of banner)
+✅ Clickable Pilgrim Payment Portal image (centered, prominent)
+
+THIS IS THE FINAL VERSION - READY TO DEPLOY!

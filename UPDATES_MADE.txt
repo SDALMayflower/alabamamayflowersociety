@@ -1,0 +1,56 @@
+ALABAMA MAYFLOWER SOCIETY WEBSITE - UPDATES APPLIED
+====================================================
+Date: February 17, 2026
+
+CHANGES MADE:
+-------------
+
+✅ ADDED: Event Registration Section
+   - Prominent event section after welcome text
+   - "<<Streaming Registration Form>>" button
+   - "OR register with credit card on our Pilgrim Portal" text
+   - Clickable Pilgrim Payment Portal image
+   - Links to https://ALABAMA-SMD.square.site
+   - Styled with attractive red/burgundy theme
+   - Clean, modern layout
+
+✅ REMOVED: Unnecessary Officer Positions
+   - Removed AT-LARGE BoA MEMBERS section
+   - Removed GSMD REPRESENTATIVES section  
+   - Removed OTHER POSITIONS section
+   - Kept only essential State Officers
+   - Kept Colony Lt. Governors
+   - Cleaner, more focused officers list
+
+WHAT THE HOMEPAGE NOW SHOWS:
+-----------------------------
+
+1. Notice about new website (alabamasmd.org)
+2. Welcome message
+3. UPCOMING EVENT section (NEW!)
+   - Spring Conference and Luncheon
+   - Streaming Registration Form button
+   - Pilgrim Portal payment option with image
+4. Membership Eligibility
+5. Society Officers (STREAMLINED!)
+   - State Officers only
+   - Colony Lt. Governors
+6. Contact box with email
+
+RESULT:
+-------
+✅ Homepage is cleaner and more focused
+✅ Event registration is prominent and easy to find
+✅ Officer list is streamlined (removed redundant positions)
+✅ Professional appearance maintained
+✅ All styling matches the modern design
+
+FILES UPDATED:
+--------------
+- index.html (homepage)
+- Added img42.jpg (Pilgrim Payment Portal image)
+
+READY TO DEPLOY!
+----------------
+The website is updated and ready to use as your placeholder
+on alabamamayflowersociety.com

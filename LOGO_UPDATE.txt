@@ -1,0 +1,52 @@
+LOGO002 UPDATED - FINAL VERSION
+================================
+Date: February 17, 2026
+
+WHAT CHANGED:
+-------------
+✅ Replaced Logo002.gif with new Logo002.png
+✅ Updated index.html to use Logo002.png
+✅ Updated contact.html to use Logo002.png
+
+NEW LOGO DETAILS:
+-----------------
+File: Logo002.png
+Format: PNG with transparent background
+Size: 74KB
+Quality: High-resolution, professional appearance
+
+The new logo shows:
+"SWEET HOME ALABAMA" text at top
+Mayflower ship in the center
+"SINCE ★ 1952" at bottom
+Gold/bronze border with decorative elements
+Blue background with ship on ocean waves
+
+PAGES UPDATED:
+--------------
+✓ index.html - Banner now uses Logo002.png
+✓ contact.html - Banner now uses Logo002.png
+
+BANNER DESIGN:
+--------------
+[MayflowerLogo001.gif] "Our new website is under development & coming soon!" [Logo002.png]
+
+Both logos now have transparent backgrounds and look perfect!
+
+FILES IN FINAL PACKAGE:
+-----------------------
+• images/MayflowerLogo001.gif (transparent, left logo)
+• images/Logo002.png (transparent, right logo) ← NEW!
+• index.html (updated)
+• contact.html (updated)
+• All other pages and assets
+
+READY TO DEPLOY!
+----------------
+✅ All logos updated
+✅ Transparent backgrounds
+✅ Professional appearance
+✅ Consistent across all pages
+✅ Ready for immediate deployment
+
+This is the final, production-ready version!

@@ -1,0 +1,58 @@
+ALABAMA MAYFLOWER SOCIETY WEBSITE - FINAL VERSION
+==================================================
+Date: February 17, 2026
+
+FINAL CHANGES MADE:
+-------------------
+
+✅ UPDATED NOTICE BANNER:
+   - Removed "📢 Notice: New Website Coming Soon"
+   - Removed reference to alabamasmd.org link
+   - NEW TEXT: "Our new website is under development & coming soon!"
+   - Added MayflowerLogo001.jpg on the LEFT
+   - Added Logo002.jpeg on the RIGHT
+   - Logos flank the text beautifully
+   - Clean, professional appearance
+
+✅ SIMPLIFIED EVENT SECTION:
+   - Removed "📍 Upcoming Event" heading
+   - Removed "Spring Conference and Luncheon" text
+   - Removed "<<Streaming Registration Form>>" button
+   - Removed "OR you can register with a credit card..." text
+   - KEPT: Clickable Pilgrim Payment Portal image
+   - Image is prominent and centered
+   - Links to https://ALABAMA-SMD.square.site
+
+WHAT THE HOMEPAGE SHOWS NOW:
+-----------------------------
+
+1. Header with logos and title
+2. Brown navigation menu
+3. NOTICE BANNER (NEW DESIGN!)
+   [Logo001] "Our new website is under development & coming soon!" [Logo002]
+4. Welcome message
+5. Clickable Payment Portal image (prominent)
+6. Membership Eligibility
+7. Society Officers (streamlined)
+8. Contact information
+9. Footer
+
+RESULT:
+-------
+✅ Cleaner, more focused design
+✅ Beautiful banner with logos flanking the text
+✅ Payment portal image is prominent but not overwhelming
+✅ Professional and polished appearance
+✅ Ready to deploy immediately
+
+FILES UPDATED:
+--------------
+- index.html
+- Added: MayflowerLogo001.jpg
+- Added: Logo002.jpeg
+- Existing: img42.jpg (payment portal)
+
+WEBSITE IS COMPLETE AND READY!
+-------------------------------
+This is the final version, ready to use as your placeholder
+on alabamamayflowersociety.com

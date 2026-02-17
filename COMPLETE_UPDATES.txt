@@ -1,0 +1,94 @@
+ALABAMA MAYFLOWER SOCIETY WEBSITE - COMPLETE & FINAL
+=====================================================
+Date: February 17, 2026
+
+ALL UPDATES APPLIED:
+--------------------
+
+✅ 1. BANNER UPDATED ON ALL PAGES
+   - Contact.html now has the new banner design
+   - All pages consistently show:
+     [Logo001] "Our new website is under development & coming soon!" [Logo002]
+   - Removed old "New Website" text with alabamasmd.org link
+
+✅ 2. LOGOS CONVERTED TO GIF WITH TRANSPARENT BACKGROUNDS
+   - MayflowerLogo001.jpg → MayflowerLogo001.gif (transparent background)
+   - Logo002.jpeg → Logo002.gif (transparent background)
+   - Both index.html and contact.html updated to use .gif versions
+   - Logos blend seamlessly with page backgrounds
+   - Professional appearance
+
+✅ 3. PAYMENT PORTAL REPOSITIONED
+   - MOVED FROM: After welcome text (top of page)
+   - MOVED TO: Below "Lineage Synopsis Form" text
+   - Now in logical location with membership information
+   - Better user flow and organization
+
+CURRENT HOMEPAGE LAYOUT:
+------------------------
+1. Header with logos and title
+2. Brown navigation bar
+3. Banner: [Logo001] "Our new website is under development & coming soon!" [Logo002]
+4. Welcome message
+5. Membership Eligibility section
+6. GSMD Scholarship link
+7. "Complete our Lineage Synopsis Form" text
+8. → PAYMENT PORTAL IMAGE (NEW LOCATION!)
+9. Society Officers (streamlined)
+10. Contact box
+11. Footer
+
+WHAT CHANGED IN THIS UPDATE:
+-----------------------------
+✅ Contact page banner matches homepage design
+✅ Logos have transparent backgrounds (GIF format)
+✅ Payment portal logically placed with membership info
+✅ Better content flow and organization
+✅ Professional, consistent appearance across all pages
+
+TECHNICAL DETAILS:
+------------------
+Files Updated:
+- index.html (payment portal moved, logos changed to .gif)
+- contact.html (banner updated, logos changed to .gif)
+
+Files Added:
+- images/MayflowerLogo001.gif (transparent background)
+- images/Logo002.gif (transparent background)
+
+FILES IN PACKAGE:
+-----------------
+HTML Pages (6):
+- index.html
+- mayflower-compact.html
+- lineage-form.html
+- programs.html
+- history.html
+- contact.html
+
+Assets:
+- css/style.css (modern responsive stylesheet)
+- images/ (logos, payment portal, original site images)
+- docs/ (original documents from old site)
+- pics/ (background images)
+
+READY TO DEPLOY:
+----------------
+✅ All pages tested and working
+✅ Consistent design across entire site
+✅ Transparent logo backgrounds
+✅ Logical content flow
+✅ Professional appearance
+✅ Mobile-responsive
+✅ Fast and lightweight
+
+DEPLOYMENT INSTRUCTIONS:
+------------------------
+1. Extract the ZIP file
+2. Upload all files to your web server
+3. Keep folder structure intact
+4. Point alabamamayflowersociety.com to the site
+5. Done!
+
+The website is 100% complete and ready to use as your
+placeholder while developing the new site at alabamasmd.org

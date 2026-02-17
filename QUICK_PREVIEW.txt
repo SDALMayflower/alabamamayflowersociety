@@ -1,0 +1,89 @@
+═══════════════════════════════════════════════════════════════
+  ALABAMA MAYFLOWER SOCIETY - NEW WEBSITE PREVIEW
+═══════════════════════════════════════════════════════════════
+
+VISUAL APPEARANCE:
+------------------
+
+┌─────────────────────────────────────────────────────────────┐
+│                    [MAYFLOWER LOGO] [SEAL]                  │
+│                                                               │
+│        Society of Mayflower Descendants in the               │
+│                  State of Alabama                             │
+├─────────────────────────────────────────────────────────────┤
+│  BROWN NAVIGATION BAR (white text clearly visible):          │
+│  Home | Mayflower Compact | Lineage Form | Programs |        │
+│        Our History | Contact                                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                               │
+│  MAIN CONTENT AREA (white background, clean):                │
+│                                                               │
+│  ┌───────────────────────────────────────────────────────┐  │
+│  │ 📢 Notice: New Website Coming Soon                    │  │
+│  │ Our new website is at alabamasmd.org                  │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                               │
+│  Welcome to the Alabama Mayflower Society                    │
+│  ═══════════════════════════════════════                    │
+│                                                               │
+│  The Alabama Society of Mayflower Descendants welcomes       │
+│  inquiries and appreciates interest in our activities...     │
+│                                                               │
+│  Membership Eligibility                                      │
+│  ──────────────────────                                      │
+│  You are eligible to join our society if you can provide...  │
+│                                                               │
+│  Society Officers                                            │
+│  ───────────────                                             │
+│  GOVERNOR: Kevin Duane Sellew...                             │
+│                                                               │
+│  ┌───────────────────────────────────────────────────────┐  │
+│  │           Have a Question?                             │  │
+│  │                                                         │  │
+│  │  Please email us at:                                   │  │
+│  │  governor@alabamasmd.org                               │  │
+│  └───────────────────────────────────────────────────────┘  │
+│                                                               │
+├─────────────────────────────────────────────────────────────┤
+│  FOOTER (brown background):                                  │
+│  Copyright © 2026 The Society of Mayflower Descendants       │
+│  General Society: www.themayflowersociety.org                │
+└─────────────────────────────────────────────────────────────┘
+
+FEATURES:
+---------
+✅ Clean, modern design
+✅ Brown navigation with white text (clearly visible)
+✅ Professional layout
+✅ Easy to read
+✅ Mobile-responsive
+✅ No broken elements
+✅ Consistent across all pages
+
+ALL PAGES LOOK LIKE THIS:
+-------------------------
+- Same header with logos
+- Same brown navigation bar
+- Same clean content area
+- Same footer
+- Consistent and professional
+
+WHAT YOU GET:
+-------------
+6 complete pages:
+  ✓ index.html - Home page
+  ✓ mayflower-compact.html - Historical document
+  ✓ lineage-form.html - Membership info
+  ✓ programs.html - Society programs
+  ✓ history.html - Our history
+  ✓ contact.html - Contact information
+
+Plus:
+  ✓ Modern CSS stylesheet
+  ✓ All images and documents
+  ✓ Complete README
+  ✓ Ready to deploy
+
+READY TO USE:
+-------------
+Just extract the ZIP file and open index.html in your browser!
